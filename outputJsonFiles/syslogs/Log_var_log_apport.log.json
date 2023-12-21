@@ -1,0 +1,9 @@
+{
+    "List": [
+        "ERROR: apport (pid 17027) Sat Dec 16 05:35:59 2023: called for pid 4617, signal 11, core limit 0, dump mode 1",
+        "ERROR: apport (pid 17027) Sat Dec 16 05:35:59 2023: executable: /usr/bin/seahorse (command line \"/usr/bin/seahorse --gapplication-service\")",
+        "ERROR: apport (pid 17027) Sat Dec 16 05:35:59 2023: is_closing_session(): Could not determine DBUS socket.",
+        "ERROR: apport (pid 17027) Sat Dec 16 05:36:01 2023: wrote report /var/crash/_usr_bin_seahorse.1000.crash"
+    ],
+    "Count": 4
+}

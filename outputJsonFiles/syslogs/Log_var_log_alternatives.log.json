@@ -1,0 +1,18 @@
+{
+    "List": [
+        "update-alternatives 2023-12-16 04:04:42: run with --install /usr/bin/tdbbackup tdbbackup /usr/bin/tdbbackup.tdbtools 10 --slave /usr/share/man/man8/tdbbackup.8.gz tdbbackup.8.gz /usr/share/man/man8/tdbbackup.tdbtools.8.gz",
+        "update-alternatives 2023-12-16 04:04:42: link group tdbbackup updated to point to /usr/bin/tdbbackup.tdbtools",
+        "update-alternatives 2023-12-16 04:09:32: run with --install /usr/bin/fakeroot fakeroot /usr/bin/fakeroot-sysv 50 --slave /usr/share/man/man1/fakeroot.1.gz fakeroot.1.gz /usr/share/man/man1/fakeroot-sysv.1.gz --slave /usr/share/man/man1/faked.1.gz faked.1.gz /usr/share/man/man1/faked-sysv.1.gz --slave /usr/share/man/es/man1/fakeroot.1.gz fakeroot.es.1.gz /usr/share/man/es/man1/fakeroot-sysv.1.gz --slave /usr/share/man/es/man1/faked.1.gz faked.es.1.gz /usr/share/man/es/man1/faked-sysv.1.gz --slave /usr/share/man/fr/man1/fakeroot.1.gz fakeroot.fr.1.gz /usr/share/man/fr/man1/fakeroot-sysv.1.gz --slave /usr/share/man/fr/man1/faked.1.gz faked.fr.1.gz /usr/share/man/fr/man1/faked-sysv.1.gz --slave /usr/share/man/sv/man1/fakeroot.1.gz fakeroot.sv.1.gz /usr/share/man/sv/man1/fakeroot-sysv.1.gz --slave /usr/share/man/sv/man1/faked.1.gz faked.sv.1.gz /usr/share/man/sv/man1/faked-sysv.1.gz",
+        "update-alternatives 2023-12-16 04:09:32: link group fakeroot updated to point to /usr/bin/fakeroot-sysv",
+        "update-alternatives 2023-12-16 04:09:32: run with --install /usr/bin/fakeroot fakeroot /usr/bin/fakeroot-tcp 30 --slave /usr/share/man/man1/fakeroot.1.gz fakeroot.1.gz /usr/share/man/man1/fakeroot-tcp.1.gz --slave /usr/share/man/man1/faked.1.gz faked.1.gz /usr/share/man/man1/faked-tcp.1.gz --slave /usr/share/man/es/man1/fakeroot.1.gz fakeroot.es.1.gz /usr/share/man/es/man1/fakeroot-tcp.1.gz --slave /usr/share/man/es/man1/faked.1.gz faked.es.1.gz /usr/share/man/es/man1/faked-tcp.1.gz --slave /usr/share/man/fr/man1/fakeroot.1.gz fakeroot.fr.1.gz /usr/share/man/fr/man1/fakeroot-tcp.1.gz --slave /usr/share/man/fr/man1/faked.1.gz faked.fr.1.gz /usr/share/man/fr/man1/faked-tcp.1.gz --slave /usr/share/man/sv/man1/fakeroot.1.gz fakeroot.sv.1.gz /usr/share/man/sv/man1/fakeroot-tcp.1.gz --slave /usr/share/man/sv/man1/faked.1.gz faked.sv.1.gz /usr/share/man/sv/man1/faked-tcp.1.gz",
+        "update-alternatives 2023-12-16 04:09:35: run with --quiet --install /usr/bin/cc cc /usr/bin/gcc 20 --slave /usr/share/man/man1/cc.1.gz cc.1.gz /usr/share/man/man1/gcc.1.gz",
+        "update-alternatives 2023-12-16 04:09:35: link group cc updated to point to /usr/bin/gcc",
+        "update-alternatives 2023-12-16 04:09:35: run with --quiet --install /usr/bin/c89 c89 /usr/bin/c89-gcc 20 --slave /usr/share/man/man1/c89.1.gz c89.1.gz /usr/share/man/man1/c89-gcc.1.gz",
+        "update-alternatives 2023-12-16 04:09:35: link group c89 updated to point to /usr/bin/c89-gcc",
+        "update-alternatives 2023-12-16 04:09:35: run with --quiet --install /usr/bin/c99 c99 /usr/bin/c99-gcc 20 --slave /usr/share/man/man1/c99.1.gz c99.1.gz /usr/share/man/man1/c99-gcc.1.gz",
+        "update-alternatives 2023-12-16 04:09:35: link group c99 updated to point to /usr/bin/c99-gcc",
+        "update-alternatives 2023-12-16 04:09:35: run with --install /usr/bin/c++ c++ /usr/bin/g++ 20 --slave /usr/share/man/man1/c++.1.gz c++.1.gz /usr/share/man/man1/g++.1.gz",
+        "update-alternatives 2023-12-16 04:09:35: link group c++ updated to point to /usr/bin/g++"
+    ],
+    "Count": 13
+}
